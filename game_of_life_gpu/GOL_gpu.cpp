@@ -1,6 +1,6 @@
 #define CL_TARGET_OPENCL_VERSION 300
 #define CL_HPP_ENABLE_EXCEPTIONS
-#include <CL/cl.h>
+// #include <CL/cl.h>
 #include <iostream>
 #include <vector>
 #include <thread>
